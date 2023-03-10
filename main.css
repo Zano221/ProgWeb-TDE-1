@@ -28,10 +28,16 @@ header, main{
 
 #tabela-vitimas {
     border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#tabela-vitimas tr {
+    width: 100%;
 }
 
 #tabela-vitimas th {
-    width: 30%;
+    background-color:crimson;
+    border: 1px solid black;
 }
 
 #tabela-vitimas td {
