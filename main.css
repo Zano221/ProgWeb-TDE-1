@@ -15,10 +15,26 @@ body {
 header, main{
     width: 70%;
     border-left: 1px solid grey;
+    padding-left: 5px;
 }
 
 #titulo-principal, section {
     
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+
+#link-manoel-info {
+    font-weight: bolder;
+    color: #e1f1fd;
+}
+
+#link-manoel-info:hover {
+    color: crimson;
 }
 
 #secao-vitimas {
