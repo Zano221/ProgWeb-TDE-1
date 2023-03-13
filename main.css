@@ -1,8 +1,12 @@
+html {
+    height: 100%;
+}
+
 body {
     margin-top: 0px;
     margin-bottom: 0px;
     width: auto;
-    height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: space-between;
     flex-flow: column wrap;
